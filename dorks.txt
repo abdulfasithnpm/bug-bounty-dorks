@@ -16,6 +16,7 @@ insite:"responsible disclosure" -inurl:nl
 intext responsible disclosure
 site eu responsible disclosure
 site .nl responsible disclosure
+site .com responsible disclosure
 site responsible disclosure
 responsible disclosure:sites
 responsible disclosure r=h:nl
